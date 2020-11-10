@@ -14,7 +14,7 @@ class Default:
         return """<html>
         <title>PyWebApp</title>
         <body bgcolor="gray">
-        <h1>Hello COMP4964!</h1>
+        <h1>Daniel Luong A00877970</h1>
         <p>Available API methods:</p>
         <ul>
         <li><a href="/api/v1/test">/api/v1/test</a></li>
